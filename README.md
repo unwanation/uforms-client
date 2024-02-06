@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# ![](https://flat.badgen.net/static/version/1.0.0/green) uForms Client
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+uForms client app.
+
+Built with [Nuxt3](https://nuxt.com).
 
 ## Setup
 
@@ -55,21 +57,3 @@ yarn build
 # bun
 bun run build
 ```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
